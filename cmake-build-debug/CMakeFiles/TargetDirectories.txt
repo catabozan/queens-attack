@@ -1,0 +1,3 @@
+/home/cata/CLionProjects/queens-attack/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/cata/CLionProjects/queens-attack/cmake-build-debug/CMakeFiles/queens_attack.dir
+/home/cata/CLionProjects/queens-attack/cmake-build-debug/CMakeFiles/edit_cache.dir
